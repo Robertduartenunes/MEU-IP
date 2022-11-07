@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Agro+">
+    <display-name lang="pt">Agro+</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Arte 1 HD">
+    <display-name lang="pt">Arte 1 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <programme start="20221107000000 +0000" stop="20221107235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20221108000000 +0000" stop="20221108235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20221109000000 +0000" stop="20221109235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20221110000000 +0000" stop="20221110235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20221111000000 +0000" stop="20221111235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20221112000000 +0000" stop="20221112235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20221113000000 +0000" stop="20221113235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20221114000000 +0000" stop="20221114235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+</tv>
